@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RootShellExtTest</string>
+    <string name="rs_no_root">Root is not available!</string>
+    <string name="rs_no_busybox">Unable to find Busybox. Maybe you will not need it?</string>
+    <string name="rs_not_root">Unable to gain root access!</string>
+    <string name="rs_ready">All Systems Ready.</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
